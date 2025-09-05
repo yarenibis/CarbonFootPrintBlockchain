@@ -22,27 +22,27 @@ Frontend (React) ve Backend (Python API) olmak üzere iki bileşenden oluşmakta
 <table>
   <tr>
     <td><img src="/login.png" width="400"/></td>
-    <td><img src="docs/images/user-panel.png" width="400"/></td>
+    <td><img src="/user-dashboard.png" width="400"/></td>
   </tr>
   <tr>
     <td align="center">🔐 Giriş Ekranı</td>
     <td align="center">📝 Kullanıcı Paneli</td>
   </tr>
   <tr>
-    <td><img src="docs/images/admin-panel.png" width="400"/></td>
-    <td><img src="docs/images/db-view.png" width="400"/></td>
+    <td><img src="/admin-dashboard.png" width="400"/></td>
+    <td><img src="/db.png" width="400"/></td>
   </tr>
   <tr>
     <td align="center">🛠 Admin Paneli</td>
     <td align="center">🗄️ Veri Tabanı Görünümü</td>
   </tr>
   <tr>
-    <td><img src="docs/images/chain-broken.png" width="400"/></td>
-    <td><img src="docs/images/transactions.png" width="400"/></td>
+    <td><img src="/broken-block.png" width="400"/></td>
+    <td><img src="/backend-api.png" width="400"/></td>
   </tr>
   <tr>
     <td align="center">⚠️ Zincir Bozuldu Uyarısı</td>
-    <td align="center">📑 İşlem Blokları</td>
+    <td align="center">📑 Backend API</td>
   </tr>
 </table>
 
