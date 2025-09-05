@@ -21,7 +21,7 @@ Frontend (React) ve Backend (Python API) olmak üzere iki bileşenden oluşmakta
 
 <table>
   <tr>
-    <td><img src="docs/images/login.png" width="400"/></td>
+    <td><img src="/login.png" width="400"/></td>
     <td><img src="docs/images/user-panel.png" width="400"/></td>
   </tr>
   <tr>
