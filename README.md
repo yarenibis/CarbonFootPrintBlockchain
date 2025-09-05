@@ -52,16 +52,17 @@ Frontend (React) ve Backend (Python API) olmak üzere iki bileşenden oluşmakta
 
 ## 🛠 Kurulum
 
-### 1. Backend (Python API)
+###  Backend (Python API) and Frontend (REACT)
 ```bash
 cd backend
 pip install -r requirements.txt
 uvicorn main:app --reload
-
-### 2. Frontend (REACT)
-```bash
+----
 cd client
 npm install
 npm start
+
+
+
 
 
